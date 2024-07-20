@@ -12,6 +12,10 @@ h1{
 
 }
 
+hr{
+    color: green;
+}
+
 li{
     text-align: left;
 }
